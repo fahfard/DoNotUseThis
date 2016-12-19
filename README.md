@@ -9,3 +9,10 @@ The goal of this project is to create a distributed scalable social media websit
 
 We aim to achieve our goal without looking into current implementations. We want to evaluate naive approaches and document our progress step by step. We will certainly make bad decicions, we will create horrible and lousy code, we will have missing tests. We will probably even change our original objectives. Our documentation will be lacking, but we will aim to document each and every step. This project is as much about cowboy style programming as it is about learning and teaching through trial and error.
 
+# Running
+
+Execute
+
+> mvn spring-boot:run
+
+Open browser http://localhost:8080
