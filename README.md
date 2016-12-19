@@ -21,3 +21,7 @@ Execute
 > mvn spring-boot:run
 
 Open browser [http://localhost:8080](http://localhost:8080)
+
+# Current status
+
+Nothing but a simple hello world
