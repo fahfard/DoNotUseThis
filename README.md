@@ -11,7 +11,8 @@ We aim to achieve our goal without looking into current implementations. We want
 
 # Requirements
 
-[Netbeans 8.2 Java EE](https://netbeans.org/downloads/index.html)
+* [Netbeans 8.2 Java EE](https://netbeans.org/downloads/index.html)
+* [Maven 3](https://maven.apache.org/download.cgi)
 
 # Running
 
